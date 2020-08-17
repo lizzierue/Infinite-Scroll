@@ -1,0 +1,1 @@
+used async/await, fetch, and made a css loader.
